@@ -29,6 +29,11 @@ namespace TiposVarios
             Console.WriteLine("z2 = "+ z2.ToString());
             Console.WriteLine("z3 = "+ z3.ToString());
 
+            bool w1 = false;
+            bool w2 = !w1;
+            Console.WriteLine("w1 = "+ w1.ToString());
+            Console.WriteLine("w2 = "+ w2.ToString());
+
             
             
         }
