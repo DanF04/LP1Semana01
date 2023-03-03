@@ -21,6 +21,15 @@ namespace TiposVarios
             Console.WriteLine("y1 = "+ y1);
             Console.WriteLine("y2 = "+ y2);
             Console.WriteLine("y3 = "+ y3);
+
+            float z1 = (float)Math.PI;
+            double z2 = Math.PI;
+            decimal z3 = (decimal)Math.PI;
+            Console.WriteLine("z1 = "+ z1.ToString());
+            Console.WriteLine("z2 = "+ z2.ToString());
+            Console.WriteLine("z3 = "+ z3.ToString());
+
+            
             
         }
     }
