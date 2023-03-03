@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\bin\Debug\net6.0\VariasStrings.exe
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\bin\Debug\net6.0\VariasStrings.deps.json
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\bin\Debug\net6.0\VariasStrings.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\bin\Debug\net6.0\VariasStrings.dll
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\bin\Debug\net6.0\VariasStrings.pdb
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.dll
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\refint\VariasStrings.dll
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.pdb
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\VariasStrings.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\Curso videojogos\Linguagens de programação 1\LP1Semana01\VariasStrings\obj\Debug\net6.0\ref\VariasStrings.dll
