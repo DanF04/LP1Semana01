@@ -6,6 +6,19 @@ namespace VariasStrings
     {
         static void Main(string[] args)
         {
+            double xx = 0.12345;
+            int ii = 18;
+
+            string sxx = $"xx={xx:f2}";
+            string sxx2 = $"xx={xx:p1}";
+            string sii = $"ii={ii:x}";
+            string sii2 = $"ii={ii:c}";
+
+            Console.WriteLine(sxx);      
+            Console.WriteLine(sxx2);
+            Console.WriteLine(sii); 
+            Console.WriteLine(sii2);    
+
             string s1 = "|\u266a\t|\u250b\t|\u263c\t|\n|u266a\t|u250b\t|u263c\t|";
             string s2 = @"|\u266a\t|\u250b\t|\u263c\t|\n|u266a\t|u250b\t|u263c\t|";
             Console.WriteLine(s1);
