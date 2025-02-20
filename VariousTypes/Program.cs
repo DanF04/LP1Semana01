@@ -36,6 +36,13 @@ namespace VariousTypes
             Console.WriteLine (PieOfNumbers);
             Console.WriteLine (DoubleReal);
 
+            //Variables for booleans
+            bool mightbe = true;
+            bool mightnotbe = false;
+
+            //Printing the respective booleans
+            Console.WriteLine (mightbe);
+            Console.WriteLine (mightnotbe);
         }
     }
 }
