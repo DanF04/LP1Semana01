@@ -2,6 +2,10 @@
 
 namespace MeuPrograma
 {
+        /// <summary>
+        /// The program starts here
+        /// </summary>
+        /// <param name="args"></param>
     public class Program
     {
         private static void Main(string[] args)
