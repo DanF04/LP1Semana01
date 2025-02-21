@@ -7,7 +7,9 @@ namespace AskForInput
         private static void Main(string[] args)
         {
             //Variables to ask for input from the user
+            Console.WriteLine ("Write a whole number:");
             string ask = Console.ReadLine();
+            Console.WriteLine ("Write a real number:");
             string askreal = Console.ReadLine();
 
             //Variable that converts the user input into a whole number
@@ -19,9 +21,8 @@ namespace AskForInput
             //Variable that adds the two inputs together
             float AddInputs = number + realnumber;
             
-
-            Console.WriteLine ("Write a whole number:"+ ask);
-            Console.WriteLine ("Write a real number:"+ askreal);
+            //Prints the result of the variable AddInputs
+            Console.WriteLine ($"The result of...");
             Console.WriteLine ($"{number} + {realnumber} = {AddInputs}");
 
 
